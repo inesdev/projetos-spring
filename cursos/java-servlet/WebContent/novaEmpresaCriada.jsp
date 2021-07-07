@@ -11,6 +11,5 @@
 			Nenhuma Empresa cadastrada!
 		</c:if>
 		
-		
-	</body>
+	</body> 
 </html>
